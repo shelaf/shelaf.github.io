@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Extension3</title>
-    <link>//shelaf.github.io/tags/test/index.xml</link>
+    <link>https://shelaf.github.io/tags/test/index.xml</link>
     <description>Recent content on Extension3</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <atom:link href="//shelaf.github.io/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://shelaf.github.io/tags/test/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>first</title>
-      <link>//shelaf.github.io/post/first/</link>
+      <link>https://shelaf.github.io/post/first/</link>
       <pubDate>Sat, 05 Dec 2015 13:41:57 +0900</pubDate>
       
-      <guid>//shelaf.github.io/post/first/</guid>
+      <guid>https://shelaf.github.io/post/first/</guid>
       <description>&lt;p&gt;テスト&lt;/p&gt;
 
 &lt;p&gt;テスト&lt;/p&gt;
